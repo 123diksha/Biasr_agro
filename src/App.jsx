@@ -47,8 +47,8 @@ const products = [
     image: "/images/combo.jpg",
     description:
       "Combination crop nutrition kit with magnesium, iron, zinc, manganese, boron and potassium humate support.",
-    dosage: "1 acre / 23.5 kg bag",
-    pack: "19 kg",
+    dosage: "1 acre / bag",
+    pack: "23.5 kg",
   },
   {
     name: "Root 1st",
@@ -66,7 +66,7 @@ const products = [
     description:
       "Improves spray spreading, coverage, absorption and compatibility with agro-chemical sprays.",
     dosage: "5–10 ml / 15 litre water",
-    pack: "500 ml, 100 ml, 50 ml",
+    pack: "500 ml, 250 ml, 100 ml, 50 ml",
   },
 ];
 
